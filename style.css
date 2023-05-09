@@ -1,0 +1,83 @@
+.container{
+   
+    width: 600px;
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-top: 22px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 2px rgb(91,92, 95);
+    
+}
+#sumbit{
+    border-radius: 20px;
+    background-color: rgb(247, 173, 82);
+    font-weight: bolder;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+    color: black;
+    margin-left:10px ;
+   
+    
+}
+#reset{
+    border-radius: 20px;
+    background-color: rgb(247, 173, 82);
+    font-weight: bolder;
+    padding: 10px;
+    margin-top: 25px;
+    text-align: center;
+    color: black;
+    margin-left: 10px;
+   
+   
+    
+}
+#calculate{
+    text-align: center;
+    text-shadow: 2px 2px 2px rgb(91,92, 95)
+    font-family: 'Roboto Slab', serif;
+    font-size: x-large;
+    margin-left: 20px;
+    
+}
+*{
+    box-sizing: border-box;
+    background-color: #0E2F2F;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: 'Roboto Slab', serif;
+    
+}
+#reset:hover{
+    background-color: rgb(83, 83,82);
+    color: white;
+}
+h2{
+    text-align: center;
+    color: wheat;
+
+}
+.socialMedia{
+    text-decoration-color: white;
+    font-weight: 700px;
+    font-size: x-large;
+   
+    margin-left: 350px;
+    margin-top: 22px;
+    border-radius: 10px;
+
+    
+}
+#abc{
+    color: white;
+   text-align: left;
+}
+
+#date{
+    border-radius: 10px;
+    color: white;
+    background-color:cadetblue;
+    padding: 5px;
+}
